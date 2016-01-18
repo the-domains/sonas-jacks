@@ -1,7 +1,7 @@
 name: Sonas Jacks
 favicon: null
-layout_spectrum: 0.01939557958394289
-typography_spectrum: 0.6359689079690725
+layout_spectrum: 0.48517
+typography_spectrum: 0.70654
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#71A7FE'
-    - '#399AE7'
-    - '#3B407C'
-    - '#547AB1'
-    - '#CEAFC0'
-  brandStrength: 0.8259353765752167
-  lightness: 0.35479751299135387
-  saturation: 0.44250488630495965
-  rhythmicContrast: 0.9906534892506897
+    - '#e5e4e0'
+    - '#424d45'
+    - '#b9b2a9'
+    - '#938269'
+    - '#121318'
+  brandStrength: 0.375
+  lightness: 0.5
+  saturation: 0.3125
+  rhythmicContrast: 1
 purpose: []
